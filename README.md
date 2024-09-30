@@ -84,3 +84,15 @@ Wallet Nexus is a closed-source program, available through a subscription. You c
 ## Getting Started
 
 To get access to Wallet Nexus, you need to subscribe to one of the plans above. After payment, you will be able to login, download and use the program with your Solana public address and password.
+
+## License
+
+This project is closed-source and requires a paid subscription for use. Redistribution or reverse engineering of the code is strictly prohibited.
+
+## Contact
+
+For any inquiries or support, feel free to reach out via:
+
+- Email: walletnexus@mail.com
+- Twitter: @WalletNexus
+- Telegram: https://t.me/WalletNexus
