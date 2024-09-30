@@ -83,4 +83,4 @@ Wallet Nexus is a closed-source program, available through a subscription. You c
 
 ## Getting Started
 
-To get access to Wallet Nexus, you need to subscribe to one of the plans above. After payment, you will be able to login and use the program with your Solana public address and password.
+To get access to Wallet Nexus, you need to subscribe to one of the plans above. After payment, you will be able to login, download and use the program with your Solana public address and password.
