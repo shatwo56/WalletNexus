@@ -93,6 +93,7 @@ This project is closed-source and requires a paid subscription for use. Redistri
 
 For any inquiries or support, feel free to reach out via:
 
+- Website: Https://WalletNexus.net
 - Email: walletnexus@mail.com
-- Twitter: @WalletNexus
+- Twitter: https://x.com/WalletNexus
 - Telegram: https://t.me/WalletNexus
