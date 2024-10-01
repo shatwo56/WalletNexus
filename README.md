@@ -6,6 +6,12 @@ Welcome to Wallet Nexus, a comprehensive set of tools designed to help you analy
 
 ---
 
+## Getting Started
+
+To get access to Wallet Nexus, you need to subscribe on the website to one of the plans above. After payment, you will be able to login, download and use the program with your Solana public address and password.
+
+---
+
 ## Features
 
 Wallet Nexus includes the following powerful tools to help you gather and analyze wallet data:
@@ -81,9 +87,6 @@ Wallet Nexus is a closed-source program, available through a subscription. You c
 
 ---
 
-## Getting Started
-
-To get access to Wallet Nexus, you need to subscribe on the website to one of the plans above. After payment, you will be able to login, download and use the program with your Solana public address and password.
 
 ## Frequently Asked Questions (FAQ)
 
@@ -155,10 +158,13 @@ Wallet Nexus is designed with ease of use in mind. No advanced technical skills 
 ### 14. **How secure is Wallet Nexus?**
 Security is our top priority. Wallet Nexus operates with industry-standard encryption and secure authentication to ensure the protection of your data and wallet information.
 
+---
 
 ## License
 
 This project is closed-source and requires a paid subscription for use. Redistribution or reverse engineering of the code is strictly prohibited.
+
+---
 
 ## Contact
 
