@@ -1,6 +1,6 @@
 # Wallet Nexus
 
-Welcome to Wallet Nexus, a comprehensive set of tools designed to help you analyze wallet interactions and performance on the Solana blockchain. Whether you’re tracking wallet statistics or discovering the top traders, Wallet Nexus offers a powerful way to scrape and analyze data with precision.
+## Welcome to Wallet Nexus, a comprehensive set of tools designed to help you analyze wallet interactions and performance on the Solana blockchain. Whether you’re tracking wallet statistics or discovering the top traders, Wallet Nexus offers a powerful way to scrape and analyze data with precision.
 
 ![Wallet Nexus Logo](assets/Nexus.png)
 
@@ -8,7 +8,19 @@ Welcome to Wallet Nexus, a comprehensive set of tools designed to help you analy
 
 ## Getting Started
 
-To get access to Wallet Nexus, you need to subscribe on the website to one of the plans above. After payment, you will be able to login, download and use the program with your Solana public address and password.
+To get access to Wallet Nexus, you need to subscribe on the <a href="https://walletnexus.net" target="_blank">official website</a> to one of the plans below. After payment, you will be able to login, download and use the program with your Solana public address and password.
+
+---
+
+## Subscription Plans
+
+Wallet Nexus is a closed-source program, available through a subscription. You can choose between the following plans:
+
+| **Plan**        | **Price (SOL)** |
+|-----------------|-----------------|
+| 1 Month         | 1 SOL           |
+| 3 Months        | 3 SOL           |
+| 6 Months        | 5 SOL           |
 
 ---
 
@@ -74,19 +86,6 @@ Gather detailed data about the top 100 traders and top 20 holders for any Solana
 ![Top Traders & Holders Results](assets/TTHres.png)
 
 ---
-
-## Subscription Plans
-
-Wallet Nexus is a closed-source program, available through a subscription. You can choose between the following plans:
-
-| **Plan**        | **Price (SOL)** |
-|-----------------|-----------------|
-| 1 Month         | 1 SOL           |
-| 3 Months        | 3 SOL           |
-| 6 Months        | 5 SOL           |
-
----
-
 
 ## Frequently Asked Questions (FAQ)
 
