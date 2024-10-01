@@ -37,6 +37,7 @@ Retrieve all the wallets that have interacted with a contract address (CA) on Pu
 - Profit & Loss (PnL)
 - Realized profit
 - SOL balance
+- and more...
 
 ![Wallet Scraper UI](assets/WS.png)
 ![Wallet Scraper Results](assets/scrapres.png)
@@ -54,6 +55,7 @@ Find wallets that have interacted with two or more contract addresses (CAs) on P
 - PnL
 - Realized profit
 - SOL balance
+- and more...
 
 ![Wallet Correlation UI](assets/Correlate.png)
 ![Wallet Correlation Results](assets/Correlateres.png)
@@ -83,6 +85,7 @@ Gather detailed data about the top 100 traders and top 20 holders for any Solana
 - PnL
 - Realized profit
 - SOL balance
+- and more...
 
 ![Top Traders & Holders UI](assets/TTH.png)
 ![Top Traders & Holders Results](assets/TTHres.png)
