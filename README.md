@@ -48,6 +48,8 @@ Retrieve all the wallets that have interacted with a contract address (CA) on Pu
 Find wallets that have interacted with two or more contract addresses (CAs) on Pump.fun, along with detailed statistics:
 
 - Amount bought
+- tokens addresses interracted with
+- Number of tokens addresses interracted with
 - Winrate
 - PnL
 - Realized profit
