@@ -32,6 +32,7 @@ Wallet Nexus includes the following powerful tools to help you gather and analyz
 
 Retrieve all the wallets that have interacted with a contract address (CA) on Pump.fun, and access comprehensive statistics such as:
 
+- Wallet Addresses of each early buyer
 - Amount bought
 - Winrate
 - Profit & Loss (PnL)
@@ -48,6 +49,7 @@ Retrieve all the wallets that have interacted with a contract address (CA) on Pu
 
 Find wallets that have interacted with two or more contract addresses (CAs) on Pump.fun, along with detailed statistics:
 
+- Wallet Addresses
 - Amount bought
 - tokens addresses interracted with
 - Number of tokens addresses interracted with
@@ -66,6 +68,7 @@ Find wallets that have interacted with two or more contract addresses (CAs) on P
 
 Analyze multiple wallets with deep insights into their:
 
+- Wallet Addresses
 - Winrate
 - PnL
 - SOL balance
@@ -80,6 +83,7 @@ Analyze multiple wallets with deep insights into their:
 
 Gather detailed data about the top 100 traders and top 20 holders for any Solana token. The tool provides detailed statistics, including:
 
+- Wallet Addresses for each top trader and top holder
 - Amount bought
 - Token balance
 - Winrate
