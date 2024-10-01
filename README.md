@@ -85,6 +85,77 @@ Wallet Nexus is a closed-source program, available through a subscription. You c
 
 To get access to Wallet Nexus, you need to subscribe on the website to one of the plans above. After payment, you will be able to login, download and use the program with your Solana public address and password.
 
+## Frequently Asked Questions (FAQ)
+
+### 1. **What should I do if I encounter a bug?**
+If you come across a bug, please open a ticket on the GitHub Issues page. Alternatively, you can reach out to us on our Telegram channel, and our team will be happy to assist you promptly.
+
+---
+
+### 2. **On what platform is Wallet Nexus available?**
+Currently, Wallet Nexus is only available for Windows. Support for other platforms may be considered in future updates.
+
+---
+
+### 3. **Will you launch a token?**
+No, we will never launch a token. Please beware of any scams or false information claiming otherwise.
+
+---
+
+### 4. **Can I cancel my subscription?**
+Yes, if you're not satisfied with the service provided, we offer refunds. To request a refund, contact us via email with the transaction signature (available on your dashboard). Your account will be terminated upon successful refund processing.
+
+---
+
+### 5. **How can I get access to Wallet Nexus?**
+To gain access, you need to subscribe to one of our available plans. Once subscribed, you'll be able to use Wallet Nexus with your Solana public address and password.
+
+---
+
+### 6. **Do you offer customer support?**
+Yes, we offer support through both our GitHub page (via issue tickets) and our Telegram channel. Feel free to reach out with any questions or concerns.
+
+---
+
+### 7. **Can I request new features?**
+Absolutely! We are always open to feature requests and suggestions. You can submit them via the GitHub Issues page or contact us directly on Telegram.
+
+---
+
+### 8. **How do I subscribe to Wallet Nexus?**
+To subscribe, visit our official website, choose your subscription plan, and complete the payment using SOL. After payment, you'll have full access to the program.
+
+---
+
+### 9. **What happens if my subscription expires?**
+If your subscription expires, you will lose access to Wallet Nexus features until you renew. You can easily renew by choosing one of the subscription plans from your account dashboard.
+
+---
+
+### 10. **Is there a free trial available?**
+Currently, we do not offer a free trial. However, we offer a refund policy if you are not satisfied with the service within the first 7 days of your subscription.
+
+---
+
+### 11. **How often is Wallet Nexus updated?**
+We are committed to improving Wallet Nexus regularly. Updates are rolled out periodically, bringing new features, improvements, and bug fixes. You can stay informed about updates through our GitHub releases and announcements on Telegram.
+
+---
+
+### 12. **Is there a limit to how many wallets I can track or analyze?**
+There is no set limit on the number of wallets you can track or analyze with Wallet Nexus. However, depending on the volume of data, processing times may vary.
+
+---
+
+### 13. **Do I need technical skills to use Wallet Nexus?**
+Wallet Nexus is designed with ease of use in mind. No advanced technical skills are required. Our user interface is straightforward, and if you need assistance, our support team is available to help.
+
+---
+
+### 14. **How secure is Wallet Nexus?**
+Security is our top priority. Wallet Nexus operates with industry-standard encryption and secure authentication to ensure the protection of your data and wallet information.
+
+
 ## License
 
 This project is closed-source and requires a paid subscription for use. Redistribution or reverse engineering of the code is strictly prohibited.
