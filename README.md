@@ -81,6 +81,7 @@ Analyze multiple wallets with deep insights into their:
 Gather detailed data about the top 100 traders and top 20 holders for any Solana token. The tool provides detailed statistics, including:
 
 - Amount bought
+- Token balance
 - Winrate
 - PnL
 - Realized profit
