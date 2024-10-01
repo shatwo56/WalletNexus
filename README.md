@@ -1,6 +1,6 @@
 # Wallet Nexus
 
-## Welcome to Wallet Nexus, a comprehensive set of tools designed to help you analyze wallet interactions and performance on the Solana blockchain. Whether you’re tracking wallet statistics or discovering the top traders, Wallet Nexus offers a powerful way to scrape and analyze data with precision.
+## Welcome to Wallet Nexus, a comprehensive set of tools designed to help you scrape and analyze wallets, wallets interactions and performance on the Solana blockchain. Whether you’re tracking wallet statistics or discovering earliest buyers, top traders or holders, Wallet Nexus offers a powerful way to scrape and analyze data with precision.
 
 ![Wallet Nexus Logo](assets/Nexus.png)
 
