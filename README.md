@@ -47,16 +47,12 @@ Retrieve all the wallets that have interacted with a contract address (CA) on Pu
 
 ### 2. Pump.fun Wallet Correlation
 
-Find wallets that have interacted with two or more contract addresses (CAs) on Pump.fun, along with detailed statistics:
+Find wallets that have interacted with two or more contract addresses (CAs) on Pump.fun, along with detailed informations:
 
 - Wallet Addresses
 - Amount bought
 - tokens addresses interracted with
 - Number of tokens addresses interracted with
-- Winrate
-- PnL
-- Realized profit
-- SOL balance
 - and more...
 
 ![Wallet Correlation UI](assets/Correlate.png)
