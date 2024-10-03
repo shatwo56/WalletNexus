@@ -4,7 +4,7 @@
 **Domain**: https://www.walletnexus.net
 
 
-Below are the results of `ls -lt`, `wc`, `ldd`, and `stat *` commands executed on the Wallet Nexus project files. This demonstrates active development with detailed timestamps of file modifications, sizes, and metadata.
+Below are the results of `ls -lt`, `wc`, `ldd`, and `stat *` commands executed on the Wallet Nexus project files. This demonstrates active development with detailed timestamps of file creation and modifications, sizes, and metadata.
 
 ## Output of `ls -lt`
 
